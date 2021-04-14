@@ -1,1 +1,1 @@
-# learnVueJS
+# Predict male by bank transactions
